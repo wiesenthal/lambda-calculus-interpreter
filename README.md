@@ -16,7 +16,7 @@ This project implements a lambda calculus interpreter with:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/lambda-calculus-interpreter.git
+git clone https://github.com/wiesenthal/lambda-calculus-interpreter.git
 cd lambda-calculus-interpreter
 npm install
 ```
