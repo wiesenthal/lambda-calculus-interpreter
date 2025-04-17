@@ -9,8 +9,12 @@
     "dev": "ts-node src/repl.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["lambda calculus", "interpreter", "typescript"],
-  "author": "",
+  "keywords": [
+    "lambda calculus",
+    "interpreter",
+    "typescript"
+  ],
+  "author": "mwiesenthal",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.9.0",
